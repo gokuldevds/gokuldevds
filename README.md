@@ -72,6 +72,17 @@
 - 📊 **Agile Execution:** Managing product life cycles effectively with Jira & SDLC  
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gokuldevds&show_icons=true&theme=radical" alt="Gokul Dev's GitHub Stats" width="400"/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuldevds&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+
+</div>
 
 ## 🌐 Let's Connect!
 
