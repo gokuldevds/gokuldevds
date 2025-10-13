@@ -1,54 +1,99 @@
-# 👋 Hey there, I'm **Gokul Dev D S**
+<h1 align="center">👋 Hey there, I'm <span style="color:#4F46E5;">Gokul Dev D S</span></h1>
 
-🚀 **Full-Stack Developer | MERN Stack | UI/UX Enthusiast | Product Designer**
+<p align="center">
+  <em>Full Stack Developer • UI/UX Enthusiast • Cloud & DevOps Learner</em>
+</p>
 
----
-
-### 💡 About Me
-I'm a Computer Science student passionate about creating intuitive, scalable, and user-centered web applications. I specialize in **MERN stack development** and have a strong eye for **UI/UX design**, focusing on building smooth digital experiences that align with real-world needs.
-
-🔹 Currently building **InSeek** — a social platform for local service providers and customers.  
-🔹 Exploring **Prompt Engineering**, **AI-integrated systems**, and **DevOps** tools.  
-🔹 Believer in clean design, smooth performance, and simplicity in code.
-
----
-
-### 🛠️ Tech Stack
-**Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Mongoose  
-**Tools & Services:** Git, GitHub, VS Code, Cloudinary, Firebase  
-**Design:** Figma, Canva, Stitch, Framer
+<p align="center">
+  <a href="mailto:gokuldevds@gmail.com"><img src="https://img.shields.io/badge/Email-gokuldevds@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gokuldevds"><img src="https://img.shields.io/badge/LinkedIn-gokuldevds-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gokuldevds"><img src="https://img.shields.io/badge/GitHub-gokuldevds-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="tel:+918590987807"><img src="https://img.shields.io/badge/Phone-%2B91%2085909%2087807-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🎨 Featured Project — [InSeek](#)
-> A MERN stack platform connecting small businesses and customers — like a social hub for services.
-- Business listing and customer discovery features
-- Modern, minimal, and responsive UI
-- Integrates image uploads and authentication
-
-💻 *Currently in UI refinement and backend integration stage.*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,aws,docker,jenkins,git,github,figma,jira&perline=7" alt="Skill Icons" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokuldevds&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokuldevds&layout=compact&theme=radical)
+## 🎯 Career Objective
+
+> I’m a **Computer Science graduate** specializing in **MERN stack development**, with a strong foundation in **software engineering, UI design, and problem-solving**.  
+> Currently expanding into **Cloud, DevOps, and AI-assisted development** to build scalable, user-centric digital products.
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gokuldevds)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gokuldevds)  
-📧 **Email:** gokuldevds@gmail.com  
-📍 Thiruvananthapuram, Kerala
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| **B.Sc. Computer Science** | University Institute of Technology, Pirappancode (University of Kerala) | 2025 | 67% (CGPA 6.71) |
+| **Biology Science (HSE)** | Govt. HSS, Elampa | 2022 | 86.75% |
 
 ---
 
-### ⚡ Fun Fact
-> I love turning complex ideas into simple, elegant user experiences — and giving them life through clean, functional code.
+## 🧠 Technical Skills
+
+### 💻 Full Stack Development (MERN)
+- MongoDB • Express.js • React.js • Node.js
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3 Hosting) • Docker • Jenkins (CI/CD)
+
+### 🧩 Tools & Platforms
+- Git & GitHub • Jira • VS Code • Postman
+
+### 🎨 UI/UX Design
+- Figma • Design Thinking • Responsive UI Engineering
+
+### 🤖 AI-Assisted Development
+- Prompt Engineering • Intelligent Debugging • Code Optimization
 
 ---
 
-⭐️ *“Design with purpose, code with clarity.”*
+## 💬 Soft Skills
+
+| Leadership | Teamwork | Adaptability | Critical Thinking | Communication | Time Management |
+|:-----------:|:---------:|:-------------:|:-----------------:|:--------------:|:----------------:|
+| 🧭 | 🤝 | 🔄 | 💡 | 🗣️ | ⏰ |
+
+---
+
+## 🚀 Projects
+
+### 🏷️ Auction Elite (MERN)
+> A real-time online auction platform enabling **live bidding, product listing, and payment integration** with **role-based authentication**.  
+> 🧰 *Tech Stack:* MongoDB, Express.js, React.js, Node.js
+
+---
+
+### ☁️ Cloud Data Security Model
+> Research-based framework improving **confidentiality and access control** in cloud environments using **V-GRT methodology**.  
+> 🔒 *Focus Areas:* Data Sharing • Security • Access Management
+
+---
+
+## 🏅 Courses & Certifications
+
+- 🎓 **Full Stack Development (MERN)** — ICT Academy of Kerala *(Ongoing)*
+- 🎨 **Figma Essential Training** — LinkedIn Learning  
+- 🤖 **AI Aware & AI Appreciate** — LinkedIn / NASBA  
+- 🧠 **Advanced Prompt Engineering** — LinkedIn Learning
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokuldevds"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
+  <a href="https://github.com/gokuldevds"><img src="https://img.icons8.com/color/48/github--v1.png" width="40" /></a>
+  <a href="mailto:gokuldevds@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center">⚡ “Building solutions — one pixel and one algorithm at a time.” ⚡</h3>
+
