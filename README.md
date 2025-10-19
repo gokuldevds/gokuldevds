@@ -3,6 +3,12 @@
 <p align="center">
   <em>Full Stack Developer • UI/UX Enthusiast • AI & Prompt Engineering Explorer</em>
 </p>
+<p align="center">
+  <a href="https://gokuldevds.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="mailto:gokuldevds@gmail.com"><img src="https://img.shields.io/badge/Email-gokuldevds@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,7 +16,7 @@
   <a href="https://github.com/gokuldevds"><img src="https://img.shields.io/badge/GitHub-gokuldevds-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   
 </p>
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4F46E5?style=for-the-badge)](https://gokuldevds.github.io/portfolio/)
+
 
 ---
 
